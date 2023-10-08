@@ -1,0 +1,20 @@
+* {
+	font-family: Comic Sans MS;
+	color: white;
+}
+body, head {
+	background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStFhNQJNyfCCcrkQvzHKP5WEQ_5G23SRVbrg&usqp=CAU");
+	background-repeat-x: no-repeat;
+	background-repeat-y: no-repeat;
+	background-size: cover;
+}
+input, button {
+	background: transparent;
+}
+a {
+	color: cyan;
+}
+
+.mod {
+	color: yellow;
+}
